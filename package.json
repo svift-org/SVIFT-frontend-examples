@@ -1,0 +1,26 @@
+{
+  "name": "svift-frontend-examples",
+  "version": "1.0.0",
+  "description": "Frontend file for exploring the examples, the examples are not included in the release",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/svift/SVIFT-frontend-examples.git"
+  },
+  "dependencies":{
+    "svift-helper": "git+ssh://git@bitbucket.org:svift/helper-module.git",
+    "svift-vis": "git+ssh://git@bitbucket.org:svift/vis-module.git",
+    "svift-vis-example": "git+ssh://git@bitbucket.org:svift/vis-example-module.git",
+    "svift-vis-example-simple":"git+ssh://git@bitbucket.org:svift/vis-example-simple-module.git",
+    "svift-vis-example-zoom":"git+ssh://git@bitbucket.org:svift/vis-example-zoom-module.git",
+    "svift-vis-example-googlegif":"git+ssh://git@bitbucket.org:svift/vis-example-googlegif-module.git",
+    "svift-vis-example-multi":"git+ssh://git@bitbucket.org:svift/vis-example-multi-module.git",
+    "svift-vis-example-sincos":"git+ssh://git@bitbucket.org:svift/vis-example-sincos-module.git"
+  },
+  "author": "Sebastian Meier",
+  "license": "MIT",
+  "homepage": "https://bitbucket.org/svift/SVIFT-frontend-examples#readme"
+}
