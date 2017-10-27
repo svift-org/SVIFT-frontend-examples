@@ -8,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@bitbucket.org/svift/SVIFT-frontend-examples.git"
+    "url": "git+https://git@github.com/svift-org/SVIFT-frontend-examples.git"
   },
   "dependencies":{
-    "svift-helper": "git+ssh://git@bitbucket.org:svift/helper-module.git",
-    "svift-vis": "git+ssh://git@bitbucket.org:svift/vis-module.git",
-    "svift-vis-example": "git+ssh://git@bitbucket.org:svift/vis-example-module.git",
-    "svift-vis-example-simple":"git+ssh://git@bitbucket.org:svift/vis-example-simple-module.git",
-    "svift-vis-example-zoom":"git+ssh://git@bitbucket.org:svift/vis-example-zoom-module.git",
-    "svift-vis-example-googlegif":"git+ssh://git@bitbucket.org:svift/vis-example-googlegif-module.git",
-    "svift-vis-example-multi":"git+ssh://git@bitbucket.org:svift/vis-example-multi-module.git",
-    "svift-vis-example-sincos":"git+ssh://git@bitbucket.org:svift/vis-example-sincos-module.git"
+    "svift-helper": "git+https://git@github.com/svift-org/helper-module.git",
+    "svift-vis": "git+https://git@github.com/svift-org/vis-module.git",
+    "svift-vis-example": "git+https://git@github.com/svift-org/vis-example-module.git",
+    "svift-vis-example-simple":"git+https://git@github.com/svift-org/vis-example-simple-module.git",
+    "svift-vis-example-zoom":"git+https://git@github.com/svift-org/vis-example-zoom-module.git",
+    "svift-vis-example-googlegif":"git+https://git@github.com/svift-org/vis-example-googlegif-module.git",
+    "svift-vis-example-multi":"git+https://git@github.com/svift-org/vis-example-multi-module.git",
+    "svift-vis-example-sincos":"git+https://git@github.com/svift-org/vis-example-sincos-module.git"
   },
   "author": "Sebastian Meier",
   "license": "MIT",
-  "homepage": "https://bitbucket.org/svift/SVIFT-frontend-examples#readme"
+  "homepage": "https://github.com/svift-org/SVIFT-frontend-examples#readme"
 }
